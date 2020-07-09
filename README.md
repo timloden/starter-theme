@@ -1,1 +1,1 @@
-# restoration-performance-base
+# WordPress Starter Theme
