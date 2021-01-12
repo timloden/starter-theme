@@ -1,50 +1,50 @@
 {
-  "name": "restoration-performance-base",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/timloden/restoration-performance-base.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/timloden/restoration-performance-base/issues"
-  },
-  "homepage": "https://github.com/timloden/restoration-performance-base#readme",
-  "devDependencies": {
-    "@babel/core": "^7.9.0",
-    "@babel/preset-env": "^7.9.0",
-    "autoprefixer": "^9.7.5",
-    "browser-sync": "^2.26.7",
-    "cssnano": "^4.1.10",
-    "gulp": "^4.0.2",
-    "gulp-autoprefixer": "^7.0.1",
-    "gulp-babel": "^8.0.0",
-    "gulp-cache": "^1.1.3",
-    "gulp-concat": "^2.6.1",
-    "gulp-filter": "^6.0.0",
-    "gulp-line-ending-corrector": "^1.0.3",
-    "gulp-merge-media-queries": "^0.2.1",
-    "gulp-plumber": "^1.2.1",
-    "gulp-postcss": "^8.0.0",
-    "gulp-remember": "^1.0.1",
-    "gulp-rename": "^2.0.0",
-    "gulp-sass": "^4.0.2",
-    "gulp-sourcemaps": "^2.6.5",
-    "gulp-uglify": "^3.0.2",
-    "gulp-uglifycss": "^1.1.0"
-  },
-  "dependencies": {
-    "@popperjs/core": "^2.1.1",
-    "animate.css": "^3.7.2",
-    "bootstrap": "^4.4.1",
-    "line-awesome": "^1.3.0",
-    "tiny-slider": "^2.9.2"
-  }
+    "name": "starter-theme",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/timloden/starter-theme"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/timloden/starter-theme/issues"
+    },
+    "homepage": "https://github.com/timloden/starter-theme/#readme",
+    "devDependencies": {
+        "@babel/core": "^7.12.10",
+        "@babel/preset-env": "^7.12.11",
+        "autoprefixer": "^10.2.1",
+        "browser-sync": "^2.26.13",
+        "cssnano": "^4.1.10",
+        "gulp": "^4.0.2",
+        "gulp-autoprefixer": "^7.0.1",
+        "gulp-babel": "^8.0.0",
+        "gulp-cache": "^1.1.3",
+        "gulp-concat": "^2.6.1",
+        "gulp-filter": "^6.0.0",
+        "gulp-line-ending-corrector": "^1.0.3",
+        "gulp-merge-media-queries": "^0.2.1",
+        "gulp-plumber": "^1.2.1",
+        "gulp-postcss": "^9.0.0",
+        "gulp-remember": "^1.0.1",
+        "gulp-rename": "^2.0.0",
+        "gulp-sass": "^4.1.0",
+        "gulp-sourcemaps": "^3.0.0",
+        "gulp-uglify": "^3.0.2",
+        "gulp-uglifycss": "^1.1.0"
+    },
+    "dependencies": {
+        "@popperjs/core": "^2.6.0",
+        "animate.css": "^4.1.1",
+        "bootstrap": "^4.5.3",
+        "line-awesome": "^1.3.0",
+        "tiny-slider": "^2.9.3"
+    }
 }
