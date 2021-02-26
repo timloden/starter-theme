@@ -4,7 +4,7 @@
  *
  * @link https://developer.wordpress.org/themes/basics/template-hierarchy/
  *
- * @package restoration-performance
+ * @package starter-theme
  */
 
 the_content();
