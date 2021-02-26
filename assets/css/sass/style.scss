@@ -4,7 +4,7 @@ Theme URI: https://timloden.com/
 Author: Tim Loden
 Author URI: https://timloden.com/
 Description: Starter theme for projects
-Version: 1.0.0
+Version: 1.0.1
 License: GNU General Public License v2 or later
 License URI: LICENSE
 
@@ -20,7 +20,7 @@ Use it to make something cool, have fun, and share what you've learned with othe
 @import 'global/_variables';
 @import 'node_modules/bootstrap/scss/bootstrap';
 
-// line-awesome
+// line-awesome - IMPORTANT: update theme name in $la-font-path
 $la-font-path: '/wp-content/themes/starter-theme/assets/fonts/line-awesome';
 @import 'node_modules/line-awesome/dist/line-awesome/scss/line-awesome';
 
